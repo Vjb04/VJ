@@ -1,4 +1,4 @@
-#db&table
+/*CREATING DATABASE and TABLE with FIELDS*/
 create database vjb;
 use vjb;
 create table vj(num int(5),name varchar(30),
